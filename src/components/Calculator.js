@@ -3,8 +3,8 @@ import React, { Component } from 'react';
 import calculate from '../logic/calculate';
 
 class Calculator extends Component {
-  constructor(props) {
-    super(props);
+  constructor() {
+    super();
     this.state = {
       total: 0,
       next: null,
@@ -21,9 +21,9 @@ class Calculator extends Component {
     return (
       <div className="calculator-box">
         <header className="result-box">
-          {total}
-          {operation}
-          {next}
+          {total && <>{total}</>}
+          {operation !== null && <>{operation}</>}
+          {next !== null && <>{next}</>}
         </header>
         <section className="operaions-box">
           <div className="leftside">
