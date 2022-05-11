@@ -1,0 +1,7 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Calculator page should match the text 1`] = `
+<h3>
+  Lets do some maths!
+</h3>
+`;
