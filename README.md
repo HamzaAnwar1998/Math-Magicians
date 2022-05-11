@@ -22,6 +22,9 @@ Run 'npm install' in your code terminal to install the packages.
 ### Usage
 - Use "npm start" to start the app in local server.
 
+### Test
+- Use "npm run test" to run the tests
+
 # Authors
 
 👤 **Hamza Anwar**
