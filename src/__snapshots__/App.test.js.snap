@@ -1,0 +1,249 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches app snapshot 1`] = `
+<div
+  className="wrapper"
+>
+  <nav
+    className="navbox"
+  >
+    <div
+      className="leftside"
+    >
+      <h1>
+        Math Magicians
+      </h1>
+    </div>
+    <ul
+      className="rightside"
+    >
+      <li
+        className="links"
+      >
+        <a
+          className="link"
+          href="/"
+          onClick={[Function]}
+        >
+          Home
+        </a>
+      </li>
+      <li
+        className="links"
+      >
+        <a
+          className="link"
+          href="/calculator"
+          onClick={[Function]}
+        >
+          Calculator
+        </a>
+      </li>
+      <li
+        className="links"
+      >
+        <a
+          className="link"
+          href="/quote"
+          onClick={[Function]}
+        >
+          Quote
+        </a>
+      </li>
+    </ul>
+    <button
+      className="toggle"
+      onClick={[Function]}
+      type="button"
+    >
+      <i
+        fill="currentColor"
+        style={
+          Object {
+            "display": "inline-block",
+          }
+        }
+      >
+        <svg
+          fill="none"
+          height={24}
+          stroke="currentColor"
+          strokeLinecap="round"
+          strokeLinejoin="round"
+          strokeWidth="2"
+          style={
+            Object {
+              "display": "inline-block",
+              "verticalAlign": "middle",
+            }
+          }
+          viewBox="0 0 24 24"
+          width={24}
+        >
+          <line
+            x1="3"
+            x2="21"
+            y1="12"
+            y2="12"
+          />
+          <line
+            x1="3"
+            x2="21"
+            y1="6"
+            y2="6"
+          />
+          <line
+            x1="3"
+            x2="21"
+            y1="18"
+            y2="18"
+          />
+        </svg>
+      </i>
+    </button>
+  </nav>
+  <main
+    style={
+      Object {
+        "padding": "30px",
+      }
+    }
+  >
+    <h1>
+      Welcome to our page!
+    </h1>
+    <br />
+    <p>
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+    </p>
+    <br />
+    <p>
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+    </p>
+  </main>
+</div>
+`;
+
+exports[`matches home snapshot 1`] = `
+<div
+  className="wrapper"
+>
+  <nav
+    className="navbox"
+  >
+    <div
+      className="leftside"
+    >
+      <h1>
+        Math Magicians
+      </h1>
+    </div>
+    <ul
+      className="rightside"
+    >
+      <li
+        className="links"
+      >
+        <a
+          className="link"
+          href="/"
+          onClick={[Function]}
+        >
+          Home
+        </a>
+      </li>
+      <li
+        className="links"
+      >
+        <a
+          className="link"
+          href="/calculator"
+          onClick={[Function]}
+        >
+          Calculator
+        </a>
+      </li>
+      <li
+        className="links"
+      >
+        <a
+          className="link"
+          href="/quote"
+          onClick={[Function]}
+        >
+          Quote
+        </a>
+      </li>
+    </ul>
+    <button
+      className="toggle"
+      onClick={[Function]}
+      type="button"
+    >
+      <i
+        fill="currentColor"
+        style={
+          Object {
+            "display": "inline-block",
+          }
+        }
+      >
+        <svg
+          fill="none"
+          height={24}
+          stroke="currentColor"
+          strokeLinecap="round"
+          strokeLinejoin="round"
+          strokeWidth="2"
+          style={
+            Object {
+              "display": "inline-block",
+              "verticalAlign": "middle",
+            }
+          }
+          viewBox="0 0 24 24"
+          width={24}
+        >
+          <line
+            x1="3"
+            x2="21"
+            y1="12"
+            y2="12"
+          />
+          <line
+            x1="3"
+            x2="21"
+            y1="6"
+            y2="6"
+          />
+          <line
+            x1="3"
+            x2="21"
+            y1="18"
+            y2="18"
+          />
+        </svg>
+      </i>
+    </button>
+  </nav>
+  <main
+    style={
+      Object {
+        "padding": "30px",
+      }
+    }
+  >
+    <h1>
+      Welcome to our page!
+    </h1>
+    <br />
+    <p>
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+    </p>
+    <br />
+    <p>
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+    </p>
+  </main>
+</div>
+`;
